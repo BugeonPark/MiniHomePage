@@ -1,5 +1,7 @@
 # BugeonPark
 
+깃허브에서 수정중. pull
+
 *sw*    
 **sw**  
 _from seoul_
