@@ -1,9 +1,7 @@
 # BugeonPark
 
-## 장바구니 추가
-- 장바구니 추가
-## navigation 추가
-- navigation.md 파일 추가
+## Navigation 2차 수정
+- navigation.md 2번째
 
 깃허브에서 수정중. pull
 
