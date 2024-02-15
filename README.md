@@ -9,3 +9,6 @@
 
 ## 사이드바 추가
 - sidebar.md 추가
+
+## CLI에서 수정하기.
+- feature/navigation
