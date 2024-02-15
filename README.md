@@ -1,7 +1,8 @@
 # BugeonPark
 
-## 장
+## 장바구니 2차 수정
 - navigation.md 2번째
+- vs코드에서 커밋하기
 
 *sw*    
 **sw**  
