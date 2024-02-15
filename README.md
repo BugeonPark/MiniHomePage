@@ -2,6 +2,8 @@
 
 ## 장바구니 추가
 - 장바구니 추가
+#navigation 추가
+- navigation.md 파일 추가
 
 깃허브에서 수정중. pull
 
