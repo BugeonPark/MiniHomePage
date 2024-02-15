@@ -12,3 +12,6 @@
 
 ## 어바웃 수정
 - cli에서 수정
+
+## CLI에서 수정하기.
+- feature/navigation
